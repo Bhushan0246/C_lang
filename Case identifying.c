@@ -1,6 +1,5 @@
 #include<stdio.h>
-
-//program for identifying upper or lower case.Written by Bhushan Harode on 14/12/2022.
+/*program for identifying upper or lower case. Written by Bhushan Harode on 14/12/2022.*/
 int main(){
 	char ch;
 	int a;
@@ -10,7 +9,7 @@ int main(){
 	if(a>=65 && a<=90){
 	printf("Your entered character is Upper case !");
 }
-	if(a>=97 && a<=122){
+	else if(a>=97 && a<=122){
 	printf("Your entered character is Lower case !");
 }
 	else
@@ -18,4 +17,3 @@ int main(){
 	
 	return 0;
 }
-
