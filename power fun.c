@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<math.h>
 /* Program to use the power function, written by Bhushan Harode on 21/12/2022. */
-
 int main(){
 	float a,b,res;
 	printf("Enter the base value : ");
