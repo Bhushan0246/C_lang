@@ -1,2 +1,2 @@
-# C_lang
-A repo completely for C language and its source files.
+# C Programming
+A repo completely for C language and its projects soource files.
