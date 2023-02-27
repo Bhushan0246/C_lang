@@ -11,7 +11,7 @@ int main(){
 	printf("\n");
 	for(i=0;i<10;i++){
 	digit[i]=pow(digit[i],n);
-	printf("At index %d : %f\n",i, digit[i]);
+	printf("At index %d : %.2f\n",i, digit[i]);
 	}
 	return 0;
 }
