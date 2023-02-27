@@ -1,2 +1,2 @@
 # C Programming
-A repo completely for C language and its projects soource files.
+A repo completely for C language and its project's source files.
