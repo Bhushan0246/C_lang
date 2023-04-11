@@ -4,8 +4,8 @@ int main(){
 	int i,n;
 	printf("Enter the power 'n' for array : ");
 	scanf("%d", &n);
+	printf("Enter elements : ");
 	for(i=0;i<10;i++){
-	printf("Enter a number : ");
 	scanf("%f", &digit[i]);
 	}
 	printf("\n");
