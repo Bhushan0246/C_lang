@@ -15,6 +15,7 @@ int main(){
 			printf("%d is at index[%d]", x, i);
 		}
 	}
+	
 	return 0;
 }
 
